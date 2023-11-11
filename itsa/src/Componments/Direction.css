@@ -1,0 +1,18 @@
+* {
+
+    
+}
+
+.navBar {
+    margin-bottom: 50px;
+    border-bottom: 5px solid rgb(43, 43, 43);
+}
+
+.nav-item {
+    font-weight: bold;
+    list-style-type: none;
+    display: inline-flex ;
+
+}
+ a{
+ }
