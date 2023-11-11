@@ -1,0 +1,14 @@
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.container{
+    display: flex;
+
+}
+@media (max-width:767px){
+    .ResumeImg{
+        height: 451px;
+    }
+}
